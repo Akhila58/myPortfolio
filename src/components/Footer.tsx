@@ -19,7 +19,7 @@ const Footer = () => {
               variant="ghost" 
               size="icon" 
               className="glow-hover"
-              onClick={() => window.open('https://github.com/yourusername', '_blank')}
+              onClick={() => window.open('https://github.com/Akhila58', '_blank')}
             >
               <Github className="h-5 w-5" />
             </Button>
@@ -27,7 +27,7 @@ const Footer = () => {
               variant="ghost" 
               size="icon" 
               className="glow-hover"
-              onClick={() => window.open('https://linkedin.com/in/yourprofile', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/akhila-nakka-8594332a7/', '_blank')}
             >
               <Linkedin className="h-5 w-5" />
             </Button>

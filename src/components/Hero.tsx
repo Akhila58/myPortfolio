@@ -55,7 +55,7 @@ const Hero = () => {
               variant="ghost" 
               size="icon" 
               className="glow-hover"
-              onClick={() => window.open('https://github.com/yourusername', '_blank')}
+              onClick={() => window.open('https://github.com/Akhila58', '_blank')}
             >
               <Github className="h-6 w-6" />
             </Button>
