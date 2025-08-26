@@ -26,7 +26,7 @@ const Hero = () => {
             <Button 
               size="lg" 
               className="glow-hover px-8 py-3 text-lg"
-              onClick={() => window.open('mailto:your.email@example.com', '_blank')}
+              onClick={() => window.open('mailto:akhilanakka58@gmail.com', '_blank')}
             >
               <Mail className="mr-2 h-5 w-5" />
               Get In Touch
@@ -63,7 +63,7 @@ const Hero = () => {
               variant="ghost" 
               size="icon" 
               className="glow-hover"
-              onClick={() => window.open('https://linkedin.com/in/yourprofile', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/akhila-nakka-8594332a7/', '_blank')}
             >
               <Linkedin className="h-6 w-6" />
             </Button>
